@@ -44,6 +44,6 @@ This case study showcases expertise in:
 
 - SQL
 - Python + Prophet (time series forecasting)
-- Streamlit (for interactive visualization)
+- Streamlit (to present the case study with interactive visualization)
 
 *This case study has been anonymized to protect company-specific information while preserving the analytical approach and methodologies used.*
